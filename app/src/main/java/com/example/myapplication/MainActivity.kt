@@ -8,10 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //first commit...........
-        //reset hard commit
-
-        //reset soft commit
+        // A first commit
         
     }
 }
