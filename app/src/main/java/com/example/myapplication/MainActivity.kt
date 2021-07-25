@@ -8,11 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //first comment added
-        //second comment added
-
-
-        // code revert changes added
-
+        //first commit
+        
     }
 }
