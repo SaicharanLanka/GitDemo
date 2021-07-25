@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         //master code to develop code branch
 
         //fetch changes
+
+        //revert changes
     }
 }
