@@ -7,11 +7,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //Second Commit.........
-        //Third Commit......
-
-
-        //cherry-pick code
-        //master code to develop code branch
+        // QT branch
     }
 }
