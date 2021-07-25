@@ -7,6 +7,6 @@ class SecondAct : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //SecondActivity Commit.........
+        //SecondActivity master Commit.........
     }
 }

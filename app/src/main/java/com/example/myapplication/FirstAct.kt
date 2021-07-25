@@ -7,6 +7,6 @@ class FirstAct : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        //FirstActivity Commit.........
+        //FirstActivity master Commit.........
     }
 }
